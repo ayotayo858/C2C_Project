@@ -1,0 +1,3 @@
+Create a variable for table 
+Greets the user, and prompts them to input their party size (1, 2, 4, or 6)
+Prints all the tables that are currently available for said party size
